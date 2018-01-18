@@ -1,5 +1,5 @@
 #craigslistScraper.py
-#Created by Maxwell Oldshein for Recorded Future coding challenge.
+#Created by Maxwell Oldshein
 
 from bs4 import BeautifulSoup
 import requests
